@@ -3,6 +3,9 @@ layout: post
 title: Minuet form
 ---
 
+{{ page.title }}
+================
+
 
 # Formal containers in the classical minuet #
 

@@ -3,6 +3,8 @@ layout: post
 title: Sonata form – the exposition
 ---
 
+{{ page.title }}
+================
 
 A sonata exposition has three jobs: *establish the home key*, *move to and establish a secondary key with a cadence*, and *lay out the thematic cycle or rotation* that will serve as the foundation for the development and recapitulation (Hepokoski & Darcy's "expositional rotation").
 

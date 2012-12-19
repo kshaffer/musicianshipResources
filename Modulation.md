@@ -3,7 +3,8 @@ layout: post
 title: Modulation
 ---
 
-
+{{ page.title }}
+================
 
 *Tonicization* occurs when a chord or short succession of chords are borrowed from another key in order to emphasize—or *tonicize*—a chord in the home key. (See [analyzing applied chords][Applied].) *Modulation* occurs when a longer succession of chords emphasizes a new tonic, leading to the perception of a new key. The principal difference between tonicization and modulation is the presence or absence of a cadence: tonicization does *not* incorporate a cadence in the tonicized key; modulation *does* incorporate at least one cadence (PAC, IAC, or HC) in a new key.
 

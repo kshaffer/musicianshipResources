@@ -3,6 +3,8 @@ layout: post
 title: Introduction to galant schemata
 ---
 
+{{ page.title }}
+================
 
 *Schemata* (pl. of *schema*) are "stock musical phrases employed in conventional sequences" (Gjerdingen 2007, p. 6). We can apply the term *schema* in three specific ways. First, a schema is a *prototype*—an idealized version of a common pattern. Second, a schema can be an *exemplar*—a single pattern that resembles the prototype. Third, a schema can be a *theory*—an explanation of a commonly occurring musical event. All of these ideas go into how we understand schemata. We understand an individual pattern (exemplar) as a version of an ideal general pattern (prototype), and that relationship helps us understand how that pattern is functioning within a particular passage of music (theory).
 

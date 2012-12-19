@@ -3,6 +3,8 @@ layout: post
 title: Syncopation in pop/rock music
 ---
 
+{{ page.title }}
+================
 
 *Syncopation* occurs when a rhythmic pattern that typically occurs on strong beats or strong parts of the beat occurs instead on weak beats or weak parts of the beat. Most pop/rock songs have a mixture of syncopated and "straight" rhythms. The syncopated rhythms are usually easy to sing, since they often match speech better than straight rhythms, but they are more difficult than straight rhythms to sight-sing, dictate, or transcribe. 
 

@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Index test
+title: Musicianship resources
 ---
 
 This site contains online resources for the Musicianship courses at Charleston Southern University, including Musicianship II and Musicianship IV, spring 2013. This site is still being built, so materials will be added to the site regularly, and pages will be updated as necessary.
 
 # Fundamentals #
 
-Meter and time signatures.  
-Pitches and octave designations.  
+[Meter and time signatures.][meter]  
+[Pitches and octave designations.][pitches]  
 [Intervals and dyads.][intervals]  
-Triads and seventh chords.  
+[Triads and seventh chords.][triads]  
 
 # Voice-leading and model composition #
 
@@ -35,7 +35,7 @@ Classical theme types.
 [Classical minuet form.][MinuetForm]  
 [Galant schemata.][Schemata]  
 [Introduction to Sonata Theory.][SonataIntro]  
-[Sonata form: the exposition.][SonataExpo]
+[Sonata form: the exposition.][SonataExpo]  
 Sonata form: the recapitulation.
 
 Form in pop/rock music.
@@ -65,8 +65,11 @@ Sight-singing tips.
 Interpreting Scripture.  
 
 
-[cadenceTypes]: cadenceTypes.html
+[meter]: meter.html
+[pitches]: pitches.html
 [intervals]: intervals.html
+[triads]: triads.html
+[cadenceTypes]: cadenceTypes.html
 [MinuetForm]: MinuetForm.html
 [Modulation]: Modulation.html
 [Schemata]: Schemata.html
