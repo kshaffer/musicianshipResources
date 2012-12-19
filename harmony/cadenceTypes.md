@@ -1,11 +1,7 @@
-latex input:	mmd-article-header
-Title:	Cadence types
-Author:	Kris P. Shaffer
-Copyright:	2012 Kris P. Shaffer. This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
-Base Header Level:	2
-latex mode:	memoir
-latex input:	mmd-article-begin-doc
-latex footer:	mmd-memoir-footer
+---
+layout: post
+title: Cadence types
+---
 
 
 
