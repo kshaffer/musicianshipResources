@@ -1,7 +1,7 @@
-Title:	Christmas Eve 2012
-Author:	Kris P. Shaffer
-Copyright:	
-Base Header Level:	2
+---
+layout: post
+title: Test home
+---
 
 # Songs & Readings #
 
