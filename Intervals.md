@@ -91,7 +91,7 @@ Interval inversion may seem confusing and esoteric now, but it will be an incred
 
 The last distinction between interval types to note is *melodic* v. *harmonic* intervals. This distinction is simple. If the two pitches of a dyad sound at the same time (a two-note chord), the interval between them is a *harmonic interval*. If the two pitches in question are sounded back-to-back (as in a melody), the interval between them is a *melodic interval*. This distinction is important in voice-leading, where different intervals are preferred or forbidden in harmonic contexts than in melodic contexts. The difference is also important for listening, as hearing melodic and harmonic intervals of the same quality requires different techniques.
 
-[c4e4]: Graphics/intervals/C4–E4.png 
-[thirds]: Graphics/intervals/thirds.png
-[compound]: Graphics/intervals/compound.png
-[inversion]: Graphics/intervals/inversion.png
+[c4e4]: Graphics/C4–E4.png 
+[thirds]: Graphics/thirds.png
+[compound]: Graphics/compound.png
+[inversion]: Graphics/inversion.png

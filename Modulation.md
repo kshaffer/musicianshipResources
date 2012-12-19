@@ -29,11 +29,17 @@ In the pop literature, direct modulations by step (whole or half) are common for
 
 "I Wanna Be Sedated" by the Ramones includes an obvious *step-up* modulation.
 
+<iframe width="480" height="360" src="http://www.youtube.com/embed/N-EKcjpEIGo?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
 # Truck-driver modulation #
 
 A *truck-driver* modulation is a direct modulation that moves from the old key (usually the tonic chord) to the dominant chord of the new key to prepare that tonic arrival, again common in pop music. The idea behind the name (coined by Walter Everett) is that the music loses energy briefly while in "neutral" (the new key dominant) before moving to a higher state of energy (the new-key tonic, a step above the old-key tonic). A truck-driver modulation is notated like a direct modulation.
 
 Billy Ocean's "Get Outta My Dreams" contains a classic truck-driver modulation.
+
+<iframe width="480" height="360" src="http://www.youtube.com/embed/gvarxGzIU3M?rel=0" frameborder="0" allowfullscreen></iframe>
+
 
 # Pivot-chord modulation #
 

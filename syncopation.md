@@ -41,6 +41,8 @@ Once you have determinted the level of syncopation, the duration of the shift, a
 
 In the following video, I walk through this process in the song "Shh" by Frou Frou.
 
+<iframe src="http://player.vimeo.com/video/52491312?badge=0" width="500" height="281" class="aligncenter" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
 
 [quarterToEighth]: Graphics/syncopation/quarterToEighth.png width="75%"
 [halfToQuarter]: Graphics/syncopation/halfToQuarter.png width="75%"
