@@ -23,15 +23,20 @@ Voice-leading in contemporary Christian worship music.
 [Generating Roman numerals from a figured bass line.][RNfromFB]  
 [Chromatically altered subdominant chords.][altSub]  
 [Applied chords.][applied]  
-Embellishing tones.  
-Harmony handouts.  
+[Embellishing tones.][embellishingTones]  
 [Modulation.][Modulation]
 
 Harmony in pop/rock music.  
 
+### Handouts and charts ###
+
+[Lead-sheet and figured-bass symbols.][LSandFBsymbols]  
+[Functional-bass symbols for common diatonic chords.][funcBassChart]
+
+
 # Form #
 
-Classical theme types.  
+[Classical theme types.][classicalThemes]  
 [Classical minuet form.][MinuetForm]  
 [Galant schemata.][Schemata]  
 [Introduction to Sonata Theory.][SonataIntro]  
@@ -73,7 +78,11 @@ Interpreting Scripture.
 [RNfromFB]: RNfromFB.html
 [altSub]: alteredSubdominants.html
 [applied]: appliedChords.html
+[embellishingTones]: embellishingTones.html
 [cadenceTypes]: cadenceTypes.html
+[LSandFBsymbols]: Graphics/Handouts/LSandFBsymbols.pdf
+[funcBassChart]: Graphics/Handouts/funcBassChart.pdf
+[classicalThemes]: classicalThemes.html
 [MinuetForm]: MinuetForm.html
 [Modulation]: Modulation.html
 [Schemata]: Schemata.html
