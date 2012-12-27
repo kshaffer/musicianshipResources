@@ -9,20 +9,20 @@ This site contains online resources for the Musicianship courses at Charleston S
 
 [Meter and time signatures.][meter]  
 [Pitches and octave designations.][pitches]  
-[Intervals and dyads.][intervals]  
+[Intervals and dyads.][intervals] (need to update table)  
 [Triads and seventh chords.][triads]  
 
 # Voice-leading and model composition #
 
-Realizing an unfigured bass line.  
+[Realizing an unfigured bass line.][unfiguredBass]  
 Voice-leading in contemporary Christian worship music.  
 
 # Harmony #
 
 [Classical cadence types.][cadenceTypes]  
-Generating Roman numerals from a figured bass.  
-Chromatically altered subdominant chords.  
-Analyzing applied chords.  
+[Generating Roman numerals from a figured bass line.][RNfromFB]  
+[Chromatically altered subdominant chords.][altSub]  
+[Applied chords.][applied]  
 Embellishing tones.  
 Harmony handouts.  
 [Modulation.][Modulation]
@@ -69,6 +69,10 @@ Interpreting Scripture.
 [pitches]: pitches.html
 [intervals]: intervals.html
 [triads]: triads.html
+[unfiguredBass]: unfiguredBass.html
+[RNfromFB]: RNfromFB.html
+[altSub]: alteredSubdominants.html
+[applied]: appliedChords.html
 [cadenceTypes]: cadenceTypes.html
 [MinuetForm]: MinuetForm.html
 [Modulation]: Modulation.html
