@@ -67,7 +67,7 @@ Writing a music-analytical essay.
 
 # Protestant Faith and Music #
 
-Interpreting Scripture.  
+[Interpreting Scripture – introductory resources.][biblicalHermeneutics]  
 
 
 [meter]: meter.html
@@ -94,3 +94,4 @@ Interpreting Scripture.
 [sightSinging]: sightSinging.html
 [addCC]: addCC.html
 [linkToTwitter]: linkToTwitter.html
+[biblicalHermeneutics]: biblicalHermeneutics.html
