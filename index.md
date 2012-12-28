@@ -41,9 +41,9 @@ Harmony in pop/rock music.
 [Galant schemata.][Schemata]  
 [Introduction to Sonata Theory.][SonataIntro]  
 [Sonata form: the exposition.][SonataExpo]  
-Sonata form: the recapitulation.
+[Sonata form: the recapitulation.][SonataRecap]
 
-Form in pop/rock music.
+[Form in pop/rock music.][popRockForm]
 
 # Writing #
 
@@ -54,12 +54,12 @@ Writing a music-analytical essay.
 
 # Technology #
 
-Adding a creative commons license to a blog post.  
-Posting a link to Twitter.  
+[Adding a creative commons license to a blog post.][addCC]  
+[Posting a blog link to Twitter.][linkToTwitter]  
 
 # Performance #
 
-Sight-singing tips.  
+[Sight-singing tips.][sightSinging]  
 
 # Listening #
 
@@ -86,6 +86,11 @@ Interpreting Scripture.
 [MinuetForm]: MinuetForm.html
 [Modulation]: Modulation.html
 [Schemata]: Schemata.html
-[SonataExpo]: SonataTheory-exposition.html
 [SonataIntro]: SonataTheory-intro.html
+[SonataExpo]: SonataTheory-exposition.html
+[SonataRecap]: SonataRecap.html
+[popRockForm]: popRockForm.html
 [syncopation]: syncopation.html
+[sightSinging]: sightSinging.html
+[addCC]: addCC.html
+[linkToTwitter]: linkToTwitter.html
