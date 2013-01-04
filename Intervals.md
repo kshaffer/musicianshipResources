@@ -40,17 +40,7 @@ There are five possible interval qualities:
 
 To obtain an interval's quality, find both the generic interval and the chromatic interval. Then consult the following table to find the specific interval. 
 
-[Interval qualities and specific intervals]
-| Generic interval 	|  i0 	|  i1 	|  i2 	|  i3 	|  i4 	|  i5 	|  i6 	|  i7 	|  i8 	|  i9 	| i10 	| i11 	| i12 	|
-| ---------------: 	| :-: 	| :-: 	| :-: 	| :-: 	| :-: 	| :-: 	| :-: 	| :-: 	| :-: 	| :-: 	| :-: 	| :-: 	| :-: 	|
-| unison 	 	|  P1 	|  A1 	| 	| 	| 	| 	| 	| 	| 	| 	| 	| 	| 	|
-| second 	|  d2 	|  m2 	|  M2 	|  A2 	| 	| 	| 	| 	| 	| 	| 	| 	| 	|
-| third 	| 	| 	|  d3 	|  m3 	|  M3 	|  A3 	| 	| 	| 	| 	| 	| 	| 	|
-| fourth 	| 	| 	| 	| 	|  d4 	|  P4 	|  A4 	| 	| 	| 	| 	| 	| 	|
-| fifth 	| 	| 	| 	| 	| 	| 	|  d5 	|  P5 	|  A5 	| 	| 	| 	| 	|
-| sixth 	| 	| 	| 	| 	| 	| 	| 	|  d6 	|  m6 	|  M6 	|  A6 	| 	| 	|
-| seventh 	| 	| 	| 	| 	| 	| 	| 	| 	| 	|  d7 	|  m7 	|  M7 	|  A7 	|
-| octave 	| 	| 	| 	| 	| 	| 	| 	| 	| 	| 	| 	|  d8 	|  P8 	|
+[![Simple diatonic intervals.][intervalChart]][intervalChart]
 
 For example, C4–E4 is a generic third, and has a chromatic interval of i4. A third that encompasses four semitones is a *major third* (M3). Note that both generic interval and chromatic interval are necessary to find the specific interval, since there are multiple specific diatonic intervals for each generic interval and for each chromatic interval.
 
@@ -96,3 +86,4 @@ The last distinction between interval types to note is *melodic* v. *harmonic* i
 [thirds]: Graphics/intervals/thirds.png
 [compound]: Graphics/intervals/compound.png
 [inversion]: Graphics/intervals/inversion.png
+[intervalChart]: Graphics/intervals/intervalTable.png
