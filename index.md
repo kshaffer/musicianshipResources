@@ -11,6 +11,7 @@ This site contains online resources for the Musicianship courses at Charleston S
 [Pitches and octave designations.][pitches]  
 [Intervals and dyads.][intervals]  
 [Triads and seventh chords.][triads]  
+[Types of contrapuntal motion.][motionTypes]
 
 # Voice-leading and model composition #
 
@@ -74,6 +75,7 @@ Writing a music-analytical essay.
 [pitches]: pitches.html
 [intervals]: Intervals.html
 [triads]: triads.html
+[motionTypes]: motionTypes.html
 [unfiguredBass]: unfiguredBass.html
 [RNfromFB]: RNfromFB.html
 [altSub]: alteredSubdominants.html
