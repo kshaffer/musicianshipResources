@@ -9,7 +9,7 @@ This site contains online resources for the Musicianship courses at Charleston S
 
 [Meter and time signatures.][meter]  
 [Pitches and octave designations.][pitches]  
-[Intervals and dyads.][intervals] (need to update table)  
+[Intervals and dyads.][intervals]  
 [Triads and seventh chords.][triads]  
 
 # Voice-leading and model composition #
@@ -72,7 +72,7 @@ Writing a music-analytical essay.
 
 [meter]: meter.html
 [pitches]: pitches.html
-[intervals]: intervals.html
+[intervals]: Intervals.html
 [triads]: triads.html
 [unfiguredBass]: unfiguredBass.html
 [RNfromFB]: RNfromFB.html
