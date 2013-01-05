@@ -13,7 +13,9 @@ We will address all three of these facets of musical theory. However, of the thr
 
 Twentieth-century musician and theorist, Heinrich Schenker, wrote:
 
-> The purpose of counterpoint, rather than to teach a specific style of composition, is to lead the ear of the serious student of music for the first time into the infinite world of fundamental musical problems (*Kontrapunkt*, p. 10).Following this line of thinking, our early voice-leading exercises will not be in a specific style (classical, baroque, romantic, pop/rock, etc.). Instead, these exercises will eliminate important musical elements like *harmony*, *orchestration*, *melodic motives*, *formal structure*, and even many elements of *rhythm*, in order to focus very specifically on a small set of musical problems. These other elements of music will be introduced one-by-one as we progress through the course (and into future courses).
+> The purpose of counterpoint, rather than to teach a specific style of composition, is to lead the ear of the serious student of music for the first time into the infinite world of fundamental musical problems (*Kontrapunkt*, p. 10).
+
+Following this line of thinking, our early voice-leading exercises will not be in a specific style (classical, baroque, romantic, pop/rock, etc.). Instead, these exercises will eliminate important musical elements like *harmony*, *orchestration*, *melodic motives*, *formal structure*, and even many elements of *rhythm*, in order to focus very specifically on a small set of musical problems. These other elements of music will be introduced one-by-one as we progress through the course (and into future courses).
 
 Also, note Schenker's expression "lead the ear." These are not pencil-and-paper exercises. Rather, they must be *performed*—with voice and/or keyboard, often with a partner—so that the ear, the fingers, the throat, and ultimately the mind can internalize the sound, sight, and feel of good (and bad) musical lines, and good (and bad) combinations of musical lines.
 
