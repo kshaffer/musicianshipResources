@@ -15,6 +15,8 @@ This site contains online resources for the Musicianship courses at Charleston S
 
 # Voice-leading and model composition #
 
+[Introduction to strict voice-leading.][speciesIntro]  
+[Composing a cantus firmus.][CF]  
 [Realizing an unfigured bass line.][unfiguredBass]  
 Voice-leading in contemporary Christian worship music.  
 
@@ -76,6 +78,10 @@ Writing a music-analytical essay.
 [intervals]: Intervals.html
 [triads]: triads.html
 [motionTypes]: motionTypes.html
+
+[speciesIntro]: speciesIntro.html
+[CF]: cantusFirmus.html
+
 [unfiguredBass]: unfiguredBass.html
 [RNfromFB]: RNfromFB.html
 [altSub]: alteredSubdominants.html
