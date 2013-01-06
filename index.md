@@ -3,7 +3,7 @@ layout: post
 title: Musicianship resources
 ---
 
-This site contains online resources for the Musicianship courses at Charleston Southern University, including Musicianship II and Musicianship IV, spring 2013. This site is still being built, so materials will be added to the site regularly, and pages will be updated as necessary.
+This site contains online resources for the Musicianship courses at Charleston Southern University, including [Musicianship II][musi199] and [Musicianship IV][musi299], spring 2013. This site is still being built, so materials will be added to the site regularly, and pages will be updated as necessary.
 
 # Fundamentals #
 
@@ -72,6 +72,8 @@ Writing a music-analytical essay.
 
 [Interpreting Scripture – introductory resources.][biblicalHermeneutics]  
 
+[musi199]: http://kshaffer.github.com/musi199
+[musi299]: http://kshaffer.github.com/musi299
 
 [meter]: meter.html
 [pitches]: pitches.html
@@ -96,7 +98,7 @@ Writing a music-analytical essay.
 [Schemata]: Schemata.html
 [SonataIntro]: SonataTheory-intro.html
 [SonataExpo]: SonataTheory-exposition.html
-[SonataRecap]: SonataRecap.html
+[SonataRecap]: sonataRecap.html
 [popRockForm]: popRockForm.html
 [syncopation]: syncopation.html
 [sightSinging]: sightSinging.html

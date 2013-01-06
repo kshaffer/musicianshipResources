@@ -6,7 +6,7 @@ title: Sonata form – the recapitulation
 {{ page.title }}
 ================
 
-The *recapitulation* is the goal of the sonata, coming after the *exposition* and the *development* (anything that preceeds the exposition is *introduction* and anything that follows the recapitulation is *coda*). It answers the expectations set forth by the exposition, and it brings the *essential sonata closure*. Thus, the relationship between the exposition and the recapitulation is the key focus of a sonata analysis. In particular, in a two-part exposition, what happens between the MC and the EEC/ESC (in other words, S) is what “makes a sonata a sonata” (Hepokoski/Darcy, p. 117).
+The *recapitulation* is the goal of the sonata, coming after the *exposition* and the *development* (anything that precedes the exposition is *introduction* and anything that follows the recapitulation is *coda*). It answers the expectations set forth by the exposition, and it brings the *essential sonata closure*. Thus, the relationship between the exposition and the recapitulation is the key focus of a sonata analysis. In particular, in a two-part exposition, what happens between the MC and the EEC/ESC (in other words, S) is what “makes a sonata a sonata” (Hepokoski/Darcy, p. 117).
 
 In light of the importance of this relationship, an analysis of a recapitulation should always take place in light of the exposition.
 
