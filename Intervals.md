@@ -110,14 +110,14 @@ The following *harmonic* intervals are *imperfect consonances*, and can be used 
 
 The following *harmonic* intervals are *perfect consonances*, and must be used with care in limited circumstances in strict voice-leading:
 
-- All perfect intervals (P1, P4, P5, P8)
+- All perfect intervals *except the perfect fourth* (P1, P5, P8)
 
 All other *harmonic* intervals are *dissonant*, and must be employed in very specific ways in strict voice-leading, including:
 
 - All diatonic steps (M2, m2)  
 - All augmented and diminished intervals (including those that are enharmonically equivalent to consonant intervals, such as A2 and A1)  
 - All sevenths
-
+- Perfect fourths
 
 [c4e4]: Graphics/intervals/C4E4.png 
 [thirds]: Graphics/intervals/thirds.png
