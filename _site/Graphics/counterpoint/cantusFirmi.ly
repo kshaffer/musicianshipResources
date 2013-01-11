@@ -9,7 +9,7 @@
 	poet = ""
 	composer = ""
 	tagline = ""
-copyright = \markup { \small { \center-column { \line { " " } \line { ©2013 Kris P. Shaffer, and licensed under a } \line { Creative Commons Attribution-ShareAlike 3.0 Unported License. } } } }
+	copyright = ""
 	}
 
 \paper {

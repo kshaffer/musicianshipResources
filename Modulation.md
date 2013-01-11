@@ -48,9 +48,10 @@ A *pivot-chord* modulation makes use of at least one chord that is native to bot
 
 When a chord expresses dominant function in the new key and is an applied chord in the old key, it is not a pivot chord. Instead, that chord is effecting a direct or truck-driver modulation. A pivot chord must belong to the diatonic collection of both keys (keeping in mind that in minor, both *la* and *le*, and both *ti* and *te* are "native" to the minor key).
 
-A pivot-chord modulation is notated in a special way. The pivot chord receives its analytical symbol for the old key, as usual. Below that symbol is the new key, colon, and the analytical symbol for the pivot chord in the new key.
+A pivot-chord modulation is notated in a special way. The pivot chord receives its analytical symbol for the old key, as usual. Below that symbol is the new key, colon, and the analytical symbol for the pivot chord in the new key. When using notation software, the two-layered analysis is fine. When analyzing by hand, use a bracket like the one shown in the following example.
 
-[graphic to be added later]
+![][mod]
 
 
-[Applied]: http://csutheory.shaffermusic.com/resources/analysis/harmony/analyzing-applied-chords/
+[Applied]: appliedChords.html
+[mod]: Graphics/harmony/modEx.png
