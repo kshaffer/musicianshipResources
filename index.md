@@ -23,12 +23,13 @@ Voice-leading in contemporary Christian worship music.
 
 # Harmony #
 
+[Embellishing tones.][embellishingTones]  
 [Classical cadence types.][cadenceTypes]  
 [Generating Roman numerals from a figured bass line.][RNfromFB]  
 [Chromatically altered subdominant chords.][altSub]  
 [Applied chords.][applied]  
-[Embellishing tones.][embellishingTones]  
-[Modulation.][Modulation]
+[Modal mixture.][mixture]  
+[Modulation.][Modulation]  
 
 Harmony in pop/rock music.  
 
@@ -97,6 +98,7 @@ Writing a music-analytical essay.
 [classicalThemes]: classicalThemes.html
 [MinuetForm]: MinuetForm.html
 [Modulation]: Modulation.html
+[mixture]: modalMixture.html
 [Schemata]: Schemata.html
 [SonataIntro]: SonataTheory-intro.html
 [SonataExpo]: SonataTheory-exposition.html
