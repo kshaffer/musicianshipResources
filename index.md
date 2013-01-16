@@ -71,8 +71,9 @@ Writing a music-analytical essay.
 
 [Transcribing syncopation in pop/rock music.][syncopation]
 
-# Protestant Faith and Music #
+# Text and music #
 
+[Analyzing poetry.][poetry]
 [Interpreting Scripture – introductory resources.][biblicalHermeneutics]  
 
 [musi199]: http://kshaffer.github.com/musi199
@@ -111,3 +112,4 @@ Writing a music-analytical essay.
 [addCC]: addCC.html
 [linkToTwitter]: linkToTwitter.html
 [biblicalHermeneutics]: biblicalHermeneutics.html
+[poetry]: analyzingPoetry.html
