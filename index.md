@@ -18,7 +18,7 @@ This site contains online resources for the Musicianship courses at Charleston S
 [Introduction to strict voice-leading.][speciesIntro]  
 [Composing a cantus firmus.][CF]  
 [Composing a first-species counterpoint.][firstSpecies]  
-[Composing a second-species counterpoint.][secondSpecies]  
+[Composing a second-species counterpoint.][secondSpecies]  [Composing a third-species counterpoint.][thirdSpecies]  
 [Realizing an unfigured bass line.][unfiguredBass]  
 Voice-leading in contemporary Christian worship music.  
 
@@ -89,6 +89,7 @@ Writing a music-analytical essay.
 [CF]: cantusFirmus.html
 [secondSpecies]: secondSpecies.html
 [firstSpecies]: firstSpecies.html
+[thirdSpecies]: thirdSpecies.html
 
 [unfiguredBass]: unfiguredBass.html
 [RNfromFB]: RNfromFB.html
