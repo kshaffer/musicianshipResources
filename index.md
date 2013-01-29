@@ -3,7 +3,7 @@ layout: post
 title: Musicianship resources
 ---
 
-This site contains online resources for the Musicianship courses at Charleston Southern University, including [Musicianship II][musi199] and [Musicianship IV][musi299], spring 2013. This site is still being built, so materials will be added to the site regularly, and pages will be updated as necessary.
+This site contains online resources for the Musicianship courses at Charleston Southern University, including [Musicianship II][musi199] and [Musicianship IV][musi299], spring 2013. This site is still being built, so materials will be added to the site regularly, and pages will be updated as necessary.	
 
 # Fundamentals #
 
@@ -20,6 +20,8 @@ This site contains online resources for the Musicianship courses at Charleston S
 [Composing a first-species counterpoint.][firstSpecies]  
 [Composing a second-species counterpoint.][secondSpecies]  
 [Composing a third-species counterpoint.][thirdSpecies]  
+[Composing a fourth-species counterpoint.][fourthSpecies]  
+
 [Realizing an unfigured bass line.][unfiguredBass]  
 
 Voice-leading in contemporary Christian worship music.  
@@ -92,6 +94,7 @@ Writing a music-analytical essay.
 [secondSpecies]: secondSpecies.html
 [firstSpecies]: firstSpecies.html
 [thirdSpecies]: thirdSpecies.html
+[fourthSpecies]: fourthSpecies.html
 
 [unfiguredBass]: unfiguredBass.html
 [RNfromFB]: RNfromFB.html
