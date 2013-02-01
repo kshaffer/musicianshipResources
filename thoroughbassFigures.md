@@ -46,6 +46,8 @@ If a note is chromatically altered (different than the key signature), the figur
 
 Of course, there are some shortcuts. For example, draw a line (a "slash") through a number to denote that it is raised by half-step (can substitute both for sharp or for natural). Also, when altering the third above the bass, simply use the sharp, flat, or natural and leave out the "3."
 
+![][chrom]
+
 In general, if there is a shortcut available, use it. The shortcuts are more standard than the corresponding full notation.
 
 Keep in mind that some chords have abbreviated figures. For example, it is common for the leading tone to be the third above the bass in a 5/3 chord. In such a situation, a bass note that otherwise would have no figure needs a sharp or a natural for its thoroughbass figure.
@@ -58,3 +60,4 @@ Only seven figures are given above. If you see a figure you do not recognize, si
 [triadsSevenths]: triads.html
 [full]: Graphics/harmony/figuresFull.png
 [abbrev]: Graphics/harmony/figuresAbbrev.png
+[chrom]: Graphics/harmony/figuresChrom.png

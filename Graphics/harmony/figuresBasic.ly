@@ -55,6 +55,8 @@ upper = \relative c' {
 	\clef treble
     <e g c>1 <e a c> <f a c> <e g b> <e g a> <e f a> <d f a>
     <e g c>1 <e a c> <f a c> <e g b> <e g a> <e f a> <d f a>
+    \key c \minor
+    <g b d> <d g d'> <g b d> <g b d>
 	}
 
 lower = <<
@@ -64,7 +66,9 @@ lower = <<
 			
 			% enter bass line here
 			c1 c c \bar "||" c c c c \bar "||" \break
-			c1 c c \bar "||" c c c c \bar "||"
+			c1 c c \bar "||" c c c c \bar "||" \break
+            \key c \minor
+            g,1 b d f \bar "||"
 			}
 		
 		\new FiguredBass \figuremode {
@@ -77,6 +81,7 @@ lower = <<
 				
                 <5 3>1 <6 3> <6 4> <7 5 3> <6 5 3> <6 4 3> <6 4 2>
                 s1 <6> <6 4> <7> <6 5> <4 3> <4 2>
+                <_!> <6> <6/ 4> <4/ 2>
         
 			}
 		>>
