@@ -28,6 +28,8 @@ Voice-leading in contemporary Christian worship music.
 
 # Harmony #
 
+[Introduction to thoroughbass.][thoroughbass]
+
 [Embellishing tones.][embellishingTones]  
 [Classical cadence types.][cadenceTypes]  
 [Generating Roman numerals from a figured bass line.][RNfromFB]  
@@ -96,6 +98,7 @@ Writing a music-analytical essay.
 [thirdSpecies]: thirdSpecies.html
 [fourthSpecies]: fourthSpecies.html
 
+[thoroughbass]: thoroughbassFigures.html
 [unfiguredBass]: unfiguredBass.html
 [RNfromFB]: RNfromFB.html
 [altSub]: alteredSubdominants.html
