@@ -22,6 +22,7 @@ This site contains online resources for the Musicianship courses at Charleston S
 [Composing a third-species counterpoint.][thirdSpecies]  
 [Composing a fourth-species counterpoint.][fourthSpecies]  
 
+[Strict keyboard-style voice-leading.][strictKeyboardStyle]  
 [Realizing an unfigured bass line.][unfiguredBass]  
 
 Voice-leading in contemporary Christian worship music.  
@@ -97,6 +98,7 @@ Writing a music-analytical essay.
 [firstSpecies]: firstSpecies.html
 [thirdSpecies]: thirdSpecies.html
 [fourthSpecies]: fourthSpecies.html
+[strictKeyboardStyle]: strictKeyboardStyle.html
 
 [thoroughbass]: thoroughbassFigures.html
 [unfiguredBass]: unfiguredBass.html

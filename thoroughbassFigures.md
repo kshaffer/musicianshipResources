@@ -22,6 +22,10 @@ Note on figure placement: Thoroughbass figures can appear above or below the bas
 
 # Figures #
 
+In general, a thoroughbass figure indicates the *simple intervals above the bass* for all pitch classes present in the chord. 
+
+Note that the largest number typically found in thoroughbass figures is 7. In general, *compound intervals* (an octave or larger) are reduced to their *simple interval* equivalent. A tenth becomes a third, a thirteenth becomes a sixth, etc.
+
 The most common chords in tonal music are [*triads* and *seventh chords*][triadsSevenths]. These chords can be in *root position* (the root of the chord is also the *bass*, or lowest note, of the chord) or in an *inversion* (when the third, fifth, or seventh of the chord is the bass). Seven of the most common figures correspond to these inversions:
 
 - 5/3: a root-position triad  
@@ -38,7 +42,22 @@ These figures are so common, that most of them have shortcuts:
 
 ![][abbrev]
 
-Note that the largest number in these figures is 7. In general, *compound intervals* (an octave or larger) are reduced to their *simple interval* equivalent. A tenth becomes a third, a thirteenth becomes a sixth, etc.
+Shortcuts (including some not listed here) follow two simple rules:
+
+- Assume a fifth is present above the bass unless there is a "6" in the figure.  
+- Assume a third is present above the bass unless there is a "4" or a "2" in the figure.
+
+## Unfamiliar figures and chords ##
+
+Only seven figures are given above. If you see a figure you do not recognize, simply follow the intervals. Likewise, if analyzing a chord that is not a triad or seventh chord, simply label the *simple* intervals you see/hear above the bass, from top to bottom in descending order: 7/6/3 or 5/4, for example. In time, you will become familiar with a number of other harmonic possibilities, and their corresponding figures.
+
+## Chords of the fifth and chords of the sixth ##
+
+All chords can be categorized as either a *chord of the fifth* or a *chord of the sixth*. This distinction will be important for our study of voice-leading.
+
+A *chord of the fifth* contains a fifth above the bass, but no sixth above the bass.
+
+A *chord of the sixth* contains a sixth above the bass.
 
 ## Chromatic alteration ##
 
@@ -51,10 +70,6 @@ Of course, there are some shortcuts. For example, draw a line (a "slash") throug
 In general, if there is a shortcut available, use it. The shortcuts are more standard than the corresponding full notation.
 
 Keep in mind that some chords have abbreviated figures. For example, it is common for the leading tone to be the third above the bass in a 5/3 chord. In such a situation, a bass note that otherwise would have no figure needs a sharp or a natural for its thoroughbass figure.
-
-## Unfamiliar figures and chords ##
-
-Only seven figures are given above. If you see a figure you do not recognize, simply follow the intervals. Likewise, if analyzing a chord that is not a triad or seventh chord, simply label the *simple* intervals you see/hear above the bass, from top to bottom in descending order: 7/6/3 or 5/4, for example. In time, you will become familiar with a number of other harmonic possibilities, and their corresponding figures.
 
 
 [triadsSevenths]: triads.html
