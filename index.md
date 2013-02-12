@@ -29,9 +29,12 @@ Voice-leading in contemporary Christian worship music.
 
 # Harmony #
 
-<!-- [Introduction to thoroughbass.][thoroughbass] -->
-
+[Introduction to thoroughbass.][thoroughbass]  
 [Embellishing tones.][embellishingTones]  
+
+[Introduction to musical functions.][functions]  
+[Harmonic functions][harmFunc]  
+
 [Classical cadence types.][cadenceTypes]  
 [Generating Roman numerals from a figured bass line.][RNfromFB]  
 [Chromatically altered subdominant chords.][altSub]  
@@ -48,6 +51,8 @@ Harmony in pop/rock music.
 
 
 # Form #
+
+[Introduction to musical functions.][functions]  
 
 [Classical theme types.][classicalThemes]  
 [Classical minuet form.][MinuetForm]  
@@ -101,6 +106,9 @@ Writing a music-analytical essay.
 [strictKeyboardStyle]: strictKeyboardStyle.html
 
 [thoroughbass]: thoroughbassFigures.html
+[functions]: functions.html
+[harmFunc]: harmonicFunctions.html
+
 [unfiguredBass]: unfiguredBass.html
 [RNfromFB]: RNfromFB.html
 [altSub]: alteredSubdominants.html
