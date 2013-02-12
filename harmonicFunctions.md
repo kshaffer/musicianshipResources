@@ -27,8 +27,8 @@ Each of the three harmonic functions—*tonic* (T), *subdominant* (S), and *domi
 Quinn (in a manner similar to Daniel Harrison) further distinguishes these scale degrees, using the categories of functional *triggers*, functional *associates*, and functional *dissonances*. These categories differentiate between scale degrees more or less characteristic of a function, and they help us understand the functional properties of chords whose scale degrees belong to more than one function, as well as how certain notes behave within a chord.
 
 [Functional triggers, associates, and dissonances of the three harmonic functions.]
-| function	| triggers	| associates	| dissonances
-| -------:	|  -------:	|  ----------:	|  ----------:
+| function	| triggers	| associates	| dissonances	|
+| -------:	|  -------:	|  ----------:	|  ----------:	|
 | T	| 1 and 3	| 5 and 6	| 5 (if 6 is also present) and 7
 | S	| 4 and 6	| 1 and 2	| 1 (if 2 is also present) and 3
 | D	| 5 and 7	| 2	| 4 and 6
