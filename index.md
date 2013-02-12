@@ -22,14 +22,14 @@ This site contains online resources for the Musicianship courses at Charleston S
 [Composing a third-species counterpoint.][thirdSpecies]  
 [Composing a fourth-species counterpoint.][fourthSpecies]  
 
-[Strict keyboard-style voice-leading.][strictKeyboardStyle]  
+<!-- [Strict keyboard-style voice-leading.][strictKeyboardStyle]  -->
 [Realizing an unfigured bass line.][unfiguredBass]  
 
 Voice-leading in contemporary Christian worship music.  
 
 # Harmony #
 
-[Introduction to thoroughbass.][thoroughbass]
+<!-- [Introduction to thoroughbass.][thoroughbass] -->
 
 [Embellishing tones.][embellishingTones]  
 [Classical cadence types.][cadenceTypes]  
