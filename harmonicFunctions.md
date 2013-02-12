@@ -28,10 +28,10 @@ Quinn (in a manner similar to Daniel Harrison) further distinguishes these scale
 
 [Functional triggers, associates, and dissonances of the three harmonic functions.]
 | function	| triggers	| associates	| dissonances
-| -------:	|  -------:	|  ----------:	|  ----------:	|
-| T	| 1 and 3	| 5 and 6	| 5 (if 6 is also present) and 7	|
-| S	| 4 and 6	| 1 and 2	| 1 (if 2 is also present) and 3	|
-| D	| 5 and 7	| 2	| 4 and 6	|
+| -------:	|  -------:	|  ----------:	|  ----------:
+| T	| 1 and 3	| 5 and 6	| 5 (if 6 is also present) and 7
+| S	| 4 and 6	| 1 and 2	| 1 (if 2 is also present) and 3
+| D	| 5 and 7	| 2	| 4 and 6
 
 To determine the function of a chord, find the function that includes all the scale degrees of a chord (irrespective of chromatic alterations). If more than one function contains all the scale degrees, take the function with the most triggers in the chord.
 

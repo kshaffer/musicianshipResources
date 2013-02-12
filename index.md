@@ -33,7 +33,7 @@ Voice-leading in contemporary Christian worship music.
 [Embellishing tones.][embellishingTones]  
 
 [Introduction to musical functions.][functions]  
-[Harmonic functions][harmFunc]  
+[Harmonic functions.][harmFunc]  
 
 [Classical cadence types.][cadenceTypes]  
 [Generating Roman numerals from a figured bass line.][RNfromFB]  
