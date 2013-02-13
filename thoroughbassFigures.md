@@ -26,23 +26,31 @@ In general, a thoroughbass figure indicates the *simple intervals above the bass
 
 Note that the largest number typically found in thoroughbass figures is 7. In general, *compound intervals* (an octave or larger) are reduced to their *simple interval* equivalent. A tenth becomes a third, a thirteenth becomes a sixth, etc.
 
-The most common chords in tonal music are [*triads* and *seventh chords*][triadsSevenths]. These chords can be in *root position* (the root of the chord is also the *bass*, or lowest note, of the chord) or in an *inversion* (when the third, fifth, or seventh of the chord is the bass). Seven of the most common figures correspond to these inversions:
-
-- 5/3: a root-position triad  
-- 6/3: a first-inversion triad (the third of the chord is in the bass)  
-- 6/4: a second-inversion triad (the fifth of the chord is in the bass)  
-- 7/5/3: a root-position seventh chord  
-- 6/5/3: a first-inversion seventh chord (the third of the chord is in the bass)  
-- 6/4/3: a second-inversion seventh chord (the fifth of the chord is in the bass)  
-- 6/4/2: a third-inversion seventh chord (the seventh of the chord is in the bass)
+The most common chords in tonal music are [*triads* and *seventh chords*][triadsSevenths]. The following figures apply to these chords:
 
 ![][full]
+
+- 5/3: use a fifth and a third above the bass (one note of the chord will be doubled)  
+- 6/3: use a sixth and a third above the bass (one note of the chord will be doubled)  
+- 6/4: use a sixth and a fourth above the bass (one note of the chord will be doubled)  
+- 7/5/3: use a seventh, a fifth, and a third above the bass  
+- 6/5/3: use a sixth, a fifth, and a third above the bass  
+- 6/4/3: use a sixth, a fourth, and a third above the bass  
+- 6/4/2: a use a sixth, a fourth, and a second above the bass
 
 These figures are so common, that most of them have shortcuts:
 
 ![][abbrev]
 
-Shortcuts (including some not listed here) follow two simple rules:
+- no figure = 5/3  
+- 6 = 6/3  
+- 6/4 is never abbreviated    
+- 7 = 7/5/3  
+- 6/5 = 6/5/3  
+- 4/3 = 6/4/3  
+- 4/2 (or just 2) = 6/4/2
+
+Other shortcuts generally follow two simple rules:
 
 - Assume a fifth is present above the bass unless there is a "6" in the figure.  
 - Assume a third is present above the bass unless there is a "4" or a "2" in the figure.
