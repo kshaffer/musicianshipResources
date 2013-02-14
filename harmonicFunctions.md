@@ -32,6 +32,14 @@ Quinn (in a manner similar to Daniel Harrison) further distinguishes these scale
 | S	| 4 and 6	| 1 and 2	| 1 (if 2 is also present) and 3
 | D	| 5 and 7	| 2	| 4 and 6
 
+In terms of moveable-*do* solfège:
+
+| function 	| triggers 	| associates 	| dissonances 	|
+| -------: 	| -------: 	| ---------: 	| ----------: 	|
+| T	| *do* and *mi*/*me*	| *sol* and *la*/*le*	| *sol* (if *la*/*le* is also present) and *ti*/*te*
+| S	| *fa* and *la*/*le*	| *do* and *re*	| *do* (if *re* is also present) and *mi*/*me*
+| D	| *sol* and *ti*/*te*	| *re*	| *fa* and *la*/*le*
+
 To determine the function of a chord, find the function that includes all the scale degrees of a chord (irrespective of chromatic alterations). If more than one function contains all the scale degrees, take the function with the most triggers in the chord.
 
 There is one exception to this (for now): a chord with scale degrees 6, 1, and 3 is a special kind of tonic chord, called a *destabilized tonic*. It's functional label is Tx, rather than T.
