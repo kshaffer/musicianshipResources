@@ -45,6 +45,18 @@ A *double cadence* is a four-stage pattern over the cadential dominant used almo
 
 ![Double cadence.][Double]
 
+# Voice-leading in strict keyboard style #
+
+In melodic strict keyboard style, always end with a perfect authentic cadence (PAC). Approach the melody's final *do* by step whenever possible, from *re* or *ti*, preferably from *re*. When using compound or double cadences, use the orientation of upper voices shown in the above figures (transposed to the appropriate key, of course).
+
+In *basso continuo* style, the top voice can end with any member of the tonic triad. As much as possible, use the voices provided in the figures above, but invert them (move the tenor line to the top, making the melody and alto the alto and tenor, for example). Simply make sure that if *ti* occurs in the top voice before the final tonic chord, it resolves its tendency up to *do*.
+
+In either case, pay special attention to the cadential six-four version of the compound cadence. Despite forming a consonant triad with the bass, both the sixth and the fourth of the first chord act like suspensions, and therefore *must resolve down by step*. This is true no matter which part is in the melody, alto, or tenor.
+
+
+
+
+
 [Furno]: http://faculty-web.at.northwestern.edu/music/gjerdingen/partimenti/collections/Furno/regoleP5.htm
 [Fenaroli]: http://faculty-web.at.northwestern.edu/music/gjerdingen/partimenti/collections/Fenaroli/Regole/regoleP3.htm
 [Gjerdingen]: http://faculty-web.at.northwestern.edu/music/gjerdingen/index.htm
