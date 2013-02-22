@@ -34,6 +34,7 @@ Voice-leading in contemporary Christian worship music.
 
 [Introduction to musical functions.][functions]  
 [Harmonic functions.][harmFunc]  
+[Harmonic syntax.][harmSyntax]  
 
 [Classical cadence types.][cadenceTypes]  
 [Generating Roman numerals from a figured bass line.][RNfromFB]  
@@ -108,6 +109,7 @@ Writing a music-analytical essay.
 [thoroughbass]: thoroughbassFigures.html
 [functions]: functions.html
 [harmFunc]: harmonicFunctions.html
+[harmSyntax]: harmonicSyntax.html
 
 [unfiguredBass]: unfiguredBass.html
 [RNfromFB]: RNfromFB.html
