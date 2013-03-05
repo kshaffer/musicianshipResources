@@ -75,6 +75,7 @@ Writing a music-analytical essay.
 
 # Technology #
 
+[Typesetting a keyboard-style voice-leading exercise.][kbTypesetting]  
 [Adding a creative commons license to a blog post.][addCC]  
 [Posting a blog link to Twitter.][linkToTwitter]  
 
@@ -138,3 +139,4 @@ Writing a music-analytical essay.
 [linkToTwitter]: linkToTwitter.html
 [biblicalHermeneutics]: biblicalHermeneutics.html
 [poetry]: analyzingPoetry.html
+[kbTypesetting]: typesettingKBStyle.html
