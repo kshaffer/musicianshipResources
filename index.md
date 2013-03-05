@@ -85,7 +85,8 @@ Writing a music-analytical essay.
 
 # Listening #
 
-[Transcribing syncopation in pop/rock music.][syncopation]
+[Transcribing syncopation in pop/rock music.][syncopation]  
+[Melodic dictation demo.][melDict]  
 
 # Text and music #
 
@@ -140,3 +141,4 @@ Writing a music-analytical essay.
 [biblicalHermeneutics]: biblicalHermeneutics.html
 [poetry]: analyzingPoetry.html
 [kbTypesetting]: typesettingKBStyle.html
+[melDict]: melodicDictationDemo.html
