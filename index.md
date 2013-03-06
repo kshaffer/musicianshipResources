@@ -7,7 +7,8 @@ This site contains online resources for the Musicianship courses at Charleston S
 
 # Introduction #
 
-[Introduction to the inverted musicianship course.][invertedCourse]
+[Introduction to the inverted musicianship course (for students).][invertedCourse]  
+[Introduction to this "textbook" (for instructors & scholars).][introSite]  
 
 # Fundamentals #
 
@@ -101,6 +102,7 @@ Writing a music-analytical essay.
 [musi299]: http://kshaffer.github.com/musi299
 
 [invertedCourse]: invertedCourse.html
+[introSite]: introToSite.html
 
 [meter]: meter.html
 [pitches]: pitches.html
