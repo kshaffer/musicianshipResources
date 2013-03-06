@@ -5,6 +5,10 @@ title: Musicianship resources
 
 This site contains online resources for the Musicianship courses at Charleston Southern University, including [Musicianship II][musi199] and [Musicianship IV][musi299], spring 2013. This site is still being built, so materials will be added to the site regularly, and pages will be updated as necessary.	
 
+# Introduction #
+
+[Introduction to the inverted musicianship course.][invertedCourse]
+
 # Fundamentals #
 
 [Meter and time signatures.][meter]  
@@ -95,6 +99,8 @@ Writing a music-analytical essay.
 
 [musi199]: http://kshaffer.github.com/musi199
 [musi299]: http://kshaffer.github.com/musi299
+
+[invertedCourse]: invertedCourse.html
 
 [meter]: meter.html
 [pitches]: pitches.html
