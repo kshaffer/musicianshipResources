@@ -60,6 +60,6 @@ This will make it easy to find the interval patterns in a set of pitch classes, 
 
 
 
-
+[intervals]: intervals.html
 [clock]: Graphics/postTonal/clockFace.png
 [Cmajor]: GRaphics/postTonal/clockFace-diatonic.png
