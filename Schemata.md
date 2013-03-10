@@ -7,9 +7,6 @@ title: Introduction to galant schemata
 ================
 
 
-Practice edit.
-
-
 *Schemata* (pl. of *schema*) are "stock musical phrases employed in conventional sequences" (Gjerdingen 2007, p. 6). We can apply the term *schema* in three specific ways. First, a schema is a *prototype*—an idealized version of a common pattern. Second, a schema can be an *exemplar*—a single pattern that resembles the prototype. Third, a schema can be a *theory*—an explanation of a commonly occurring musical event. All of these ideas go into how we understand schemata. We understand an individual pattern (exemplar) as a version of an ideal general pattern (prototype), and that relationship helps us understand how that pattern is functioning within a particular passage of music (theory).
 
 That latter point is significant. Like harmonic functions and formal functions, schemata have both internal defining characteristics *and* normative placements within a series of musical events. Just as identifying and interpreting the function of a particular chord involves taking an inventory of its internal characteristics (the scale degrees present) and its location in the phrase, identifying and interpreting a particular schema will involve noting both its internal characteristics and what comes before and after it. And just like a chord can project a particular harmonic function without containing every scale degree associated with that function, a phrase or sub-phrase can project the identity and function of a particular schema without possessing every defining characteristic of the schema. (In other words, not every exemplar could stand as a prototype.)
