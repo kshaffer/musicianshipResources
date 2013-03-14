@@ -77,6 +77,8 @@ Harmony in pop/rock music.
 [Analyzing atonal music.][atonal]  
 [Glossary of atonal musical terms.][atonalGloss]  
 
+[Sheet of blank chromatic-scale clock faces.][clocks]  
+
 
 # Writing #
 
@@ -160,3 +162,4 @@ Writing a music-analytical essay.
 
 [atonal]: atonal.html
 [atonalGloss]: atonalGlossary.html
+[clocks]: Graphics/blankClockFaces.pdf
