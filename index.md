@@ -90,6 +90,7 @@ Writing a music-analytical essay.
 # Technology #
 
 [Typesetting a keyboard-style voice-leading exercise.][kbTypesetting]  
+[Using Variations Audio Timeliner.][VAT]  
 [Adding a creative commons license to a blog post.][addCC]  
 [Posting a blog link to Twitter.][linkToTwitter]  
 
@@ -159,6 +160,7 @@ Writing a music-analytical essay.
 [poetry]: analyzingPoetry.html
 [kbTypesetting]: typesettingKBStyle.html
 [melDict]: melodicDictationDemo.html
+[VAT]: VAT.html
 
 [atonal]: atonal.html
 [atonalGloss]: atonalGlossary.html
