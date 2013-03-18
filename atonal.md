@@ -56,7 +56,7 @@ This will make it easy to find the interval patterns in a set of pitch classes, 
 
 ![][zCell]
 
-**French-sixth** – The usual french-augmented-sixth-chord collection, but stripped of its tonal function, prime form: (0268). It is a subset of the whole-tone collection.
+**French-sixth** – The usual french-augmented-sixth-chord collection, but stripped of its tonal function, prime form: (0268). It is a subset of the whole-tone collection and octatonic collections. Like the Z-cell, two French-sixth chords a minor third apart form an octatonic scale.
 
 ![][frenchSixth]
 
