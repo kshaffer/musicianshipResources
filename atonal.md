@@ -30,25 +30,50 @@ This will make it easy to find the interval patterns in a set of pitch classes, 
 
 **Diatonic** – The usual major and *natural*-minor collections (white key collection and all of its transpositions).
 
+![][major]  
+![][minor]
+
 **Pentatonic** – The black key collection and all of its transpositions, prime form: (02479).
+
+![][pentatonicBlack]  
+![][pentatonicWhite]
 
 **Octatonic** – An eight-pitch-class scale that alternates i1 and i2 (semitones and whole-tones).
 
+![][octatonic]
+
 **Hexatonic** – A six-pitch-class scale that alternates i1 and i3 (semitones and minor thirds/augmented seconds).
+
+![][hexatonic]
 
 **X-cell** – The chromatic tetrachord, or a four-pitch-class chromatic cluster, prime form: (0123).
 
+![][xCell]
+
 **Y-cell** – The whole-tone tetrachord, or a four-pitch-class whole-tone cluster, prime form: (0246). It is a subset of the whole-tone scale.
+
+![][yCell]
 
 **Z-cell** – A four-pitch-class collection that alternates i1 and i5 (semitones and perfect fourths), prime form: (0167). Two Z-cells a minor third apart form an octatonic scale.
 
+![][zCell]
+
 **French-sixth** – The usual french-augmented-sixth-chord collection, but stripped of its tonal function, prime form: (0268). It is a subset of the whole-tone collection.
+
+![][frenchSixth]
 
 **Whole-tone scale** – A six-pitch-class scale made up of successive whole tones, prime form: (02468T).
 
+![][wholeTone]
+
 **Acoustic scale** – A seven-pitch-class scale that resembles the major scale, but with *fa* raised to *fi* and *ti* lowered to *te*, in order to match the seventh and eleventh partials of the natural harmonic series.
 
+![][acoustic]
+
 **Dual-diatonic** – An eight-pitch-class scale formed by the union of two diatonic collections separated by fifth—for example C major and G major: C – D – E – F – F# – G – A – B. It contains two diatonic scales, two Z-cells, and two Y-cells. It was used primarily by Bartók.
+
+![][dualDiatonicFaFi]  
+![][dualDiatonicTeTi]
 
 
 
@@ -62,4 +87,18 @@ This will make it easy to find the interval patterns in a set of pitch classes, 
 
 [intervals]: Intervals.html
 [clock]: Graphics/postTonal/clockFace.png
-[Cmajor]: GRaphics/postTonal/clockFace-diatonic.png
+[Cmajor]: Graphics/postTonal/clockFace-diatonic.png
+[acoustic]: Graphics/postTonal/acoustic.png
+[dualDiatonicFaFi]: Graphics/postTonal/dualDiatonicFaFi.png
+[dualDiatonicTeTi]: Graphics/postTonal/dualDiatonicTeTi.png
+[frenchSixth]: Graphics/postTonal/frenchSixth.png
+[hexatonic]: Graphics/postTonal/hexatonic.png
+[major]: Graphics/postTonal/major.png
+[minor]: Graphics/postTonal/minor.png
+[octatonic]: Graphics/postTonal/octatonic.png
+[pentatonicBlack]: Graphics/postTonal/pentatonicBlack.png
+[pentatonicWhite]: Graphics/postTonal/pentatonicWhite.png
+[wholeTone]: Graphics/postTonal/wholeTone.png
+[xCell]: Graphics/postTonal/xCell.png
+[yCell]: Graphics/postTonal/yCell.png
+[zCell]: Graphics/postTonal/zCell.png
