@@ -26,8 +26,6 @@ This will make it easy to find the interval patterns in a set of pitch classes, 
 
 ## Common pitch-class collections ##
 
-*graphics and more details coming soon*
-
 **Diatonic** – The usual major and *natural*-minor collections (white key collection and all of its transpositions).
 
 ![][major]  
@@ -79,9 +77,34 @@ This will make it easy to find the interval patterns in a set of pitch classes, 
 
 ## Common *operations* ##
 
-**Transposition** – Moving every pitch (class) in a collection up or down by a specified interval. Transposition corresponds to *rotation* of a collection of pitch classes around a clock face.
+#### Transposition ####
 
-**Inversion**
+Pitch transposition involves moving every pitch in a collection up or down by a specified interval. 
+
+Pitch-class transposition does the same thing. However, because of the cyclical nature of pitch classes, PC-transposition also corresponds to *rotation* of a collection of pitch classes around a clock face.
+
+#### Inversion ####
+
+*Melodic inversion* occurs when all ascending melodic intervals in a melody are replaced with descending intervals of the same size, and all descending replaced with ascending of the same size. The following melodies are inversion of each other.
+
+![][melodyUp]  
+![][melodyDown]
+
+*Pitch inversion* occurs when all pitches are inverted, or flipped, around an axis of symmetry in pitch space (in other words, the axis of symmetry is a pitch). In the above melodic example, the axis is G4. Since the first pitch is G4, it remains unchanged. The next pitch (A4) is two semitones above G4; it is replaced with F4, two semitones below G4. B4 (i4 above G4) is replaced by E-flat4 (i4 below G4). And so on.
+
+Pitch inversion can apply to a melody, but also to a simultaneity, or to a collection that a passage is based on.
+
+In general, when two melodies, simultaneities, or collections can be related by pitch inversion, they are considered to be equivalent in some sense (but, obviously, not identical).
+
+*Pitch-class inversion* occurs when all pitch classes of a collection are inverted, or flipped, around an axis of symmetry in pitch-class space (in other words, the axis of symmetry is a pitch class). Since pitch-class space is cyclical (once you go up 12 semitones, you are back where you started), the axis of symmetry is comprised of *two* pitch classes a tritone apart. This is most clearly seen on a clock face.
+
+![][tetra]
+
+When the above set is inverted around the axis C–F-sharp, it becomes the following set:
+
+![][tetraInverted]
+
+Some atonal composers like to make use of sets that invert and/or transpose onto themselves. Sets that can be inverted around an axis of symmetry without changing any pitch classes are called *inversionally symmetrical*. Sets that can be transposed a certain interval without changing any of its pitch classes are called *transpositionally symmetrical* or *rotationally symmetrical*. The Z-cell and French-Sixth collections are sets that are both rotationally and inversionally symmetrical. 
 
 
 
@@ -102,3 +125,7 @@ This will make it easy to find the interval patterns in a set of pitch classes, 
 [xCell]: Graphics/postTonal/xCell.png
 [yCell]: Graphics/postTonal/yCell.png
 [zCell]: Graphics/postTonal/zCell.png
+[melodyUp]: Graphics/postTonal/melodyUp.png
+[melodyDown]: Graphics/postTonal/melodyDown.png
+[tetra]: Graphics/postTonal/clockFace-tetraChord.png
+[tetraInverted]: Graphics/postTonal/clockFace-tetraChordInverted.png
