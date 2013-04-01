@@ -75,6 +75,7 @@ Harmony in pop/rock music.
 # Post-tonal music #
 
 [Analyzing atonal music.][atonal]  
+[Analyzing 12-tone music.][twelveTone]  
 [Glossary of atonal musical terms.][atonalGloss]  
 
 [Sheet of blank chromatic-scale clock faces.][clocks]  
@@ -163,5 +164,6 @@ Writing a music-analytical essay.
 [VAT]: VAT.html
 
 [atonal]: atonal.html
+[twelveTone]: twelveTone.html
 [atonalGloss]: atonalGlossary.html
 [clocks]: Graphics/blankClockFaces.pdf

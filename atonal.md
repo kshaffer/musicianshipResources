@@ -83,6 +83,8 @@ Pitch transposition involves moving every pitch in a collection up or down by a 
 
 Pitch-class transposition does the same thing. However, because of the cyclical nature of pitch classes, PC-transposition also corresponds to *rotation* of a collection of pitch classes around a clock face.
 
+Transposition operations can be denoted by a capital "T" followed by a subscript indicating the number of semitones of the transposition. For pitch-class transpositions, use ordered pitch-class intervals (numbers 0–11). Transposing a collection or fragment up a whole step is labeled **T<sub>2</sub>**; up a tritone is **T<sub>6</sub>**, down a semitone is **T<sub>11</sub>** (mod12(–1) = 11).
+
 #### Inversion ####
 
 *Melodic inversion* occurs when all ascending melodic intervals in a melody are replaced with descending intervals of the same size, and all descending replaced with ascending of the same size. The following melodies are inversion of each other.
@@ -100,9 +102,15 @@ In general, when two melodies, simultaneities, or collections can be related by 
 
 ![][tetra]
 
-When the above set is inverted around the axis C–F-sharp, it becomes the following set:
+When the above set is inverted around the axis C/F-sharp, it becomes the following set:
 
 ![][tetraInverted]
+
+When pitch classes are labeled by number (C = 0, C-sharp = 1, . . . B = 11), pitch class inversion can be calculated by determining a *sum* and finding the difference between that sum and each pitch class in the original collection. The difference is the pitch class for the new collection.
+
+In the above example, the set {C, D, E, F} is {0, 2, 4, 5}. Its inversion {G, G-sharp, B-flat, C} is {7, 8, 10, 0}. When inverting the original around the C/F-sharp axis, C becomes C (0 becomes 0), D–B-flat (2–10), E–G-sharp (4–8), and F–G (5–7). All of these pitch-class pairs add to 0 or 12, which are equivalent modulo12. Thus the inversion sum is 0, and the inversion is labeled **I<sub>0</sub>**.
+
+Inverting about the C-sharp/G axis is **I<sub>2</sub>**. Inverting about the D/G-sharp axis is **I<sub>4</sub>**. Inverting about the E-flat/A axis is **I<sub>6</sub>**. Inverting about the E/B-flat axis is **I<sub>8</sub>**. Inverting about the F/B axis is **I<sub>10</sub>**. Odd number sums will place the axis between pitch classes (**I<sub>1</sub>** between C/C-sharp and F-sharp/G, fox example).
 
 Some atonal composers like to make use of sets that invert and/or transpose onto themselves. Sets that can be inverted around an axis of symmetry without changing any pitch classes are called *inversionally symmetrical*. Sets that can be transposed a certain interval without changing any of its pitch classes are called *transpositionally symmetrical* or *rotationally symmetrical*. The Z-cell and French-Sixth collections are sets that are both rotationally and inversionally symmetrical. 
 
