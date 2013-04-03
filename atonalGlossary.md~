@@ -28,17 +28,13 @@ The ordered pitch-class interval is also the modulo12 version of the ordered pit
 
 **pitch-class set class** or simply **set class** – A category of pitch-class sets that are all related by transposition or inversion. For example, the 12 major triads are all related by transposition. While each major triad is a different pitch-class set, they all belong to the same set class (the same category of sets). Note that minor triads are upside-down major triads (minor third–major third, instead of major third–minor third). Thus since major and minor triads can be related by inversion, they belong to the same set class. Set classes are typically named according to their *prime form* (see *prime form* in this glossary).
 
-**prime form** – Since set classes come in as many as 24 different forms (12 transpositions times 2 inversions), one of those forms is chosen as its name or referential form, for ease of categorization. That form is the prime form. The prime form is, in a nutshell, the inversion and rotation of the set class that keeps the pitch classes most tightly packed on and above C (0).
-
-For help finding the prime form of a set, Jay Tomlin's [set theory calculator][calc] can be helpful. The following video demonstrates how to use it.
-
-<iframe src="http://player.vimeo.com/video/63210462" width="500" height="375" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/63210462">SetTheoryCalculator</a> from <a href="http://vimeo.com/user11692346">Kris Shaffer</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+**prime form** – Since set classes come in as many as 24 different forms (12 transpositions times 2 inversions), one of those forms is chosen as its name or referential form, for ease of categorization. That form is the prime form. The prime form is, in a nutshell, the inversion and rotation of the set class that keeps the pitch classes most tightly packed on and above C (0). **video to be added on finding the prime form**
 
 **simultaneity** – Any collection of more than one pitch (class) that sound at the same time. This includes dyads/intervals, chords, clusters, and "salami slices" of contrapuntal textures.
 
 **unordered pitch-class interval** – A regular *simple* chromatic interval: the number of half steps between two pitches. Compound intervals (larger than an octave) are typically reduced to their corresponding simple interval. They are labeled with a lower-case **i**: **i4** is a major third, for example.
 
 
-[calc]: http://www.jaytomlin.com/music/settheory/
+
 [clock]: Graphics/postTonal/clockFace.png
 [Cmajor]: GRaphics/postTonal/clockFace-diatonic.png
