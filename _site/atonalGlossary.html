@@ -37,14 +37,15 @@
 
 <p><strong>collection</strong> – The general term for treating multiple pitch classes as a single entity. Sets, set classes, scales, simultaneities, chords, and intervals are all specific kinds of collections.</p>
 
-<!-- **interval (ordered)** –->
-
-<!-- **interval (unordered)** – A regular *simple* chromatic interval: the number of half steps between two pitches. Compound intervals (larger than an octave) are typically reduced to their corresponding simple interval. They are labeled with a lower-case **i**: **i4** is a major third, for example. -->
-
-
 <p><strong>interval class</strong> – The number of semitones between two <em>pitch classes</em>, counted as the shortest distance between them on a clock face. For instance, C and E make an interval class of 4. This is always the case, no matter which <em>pitch</em> is higher or lower, because interval class is concerned only with <em>pitch classes</em>. Interval classes are labeled <strong>ic1</strong>, <strong>ic2</strong>, . . . <strong>ic6</strong>. (There are none smaller than <strong>ic1</strong> or larger than <strong>ic6</strong>.)</p>
 
 <p><strong>interval vector</strong> – The interval vector of a set class describes all of the interval classes present in a set class. There are six interval classes (1–6). The interval vector gives the number of each of those intervals in order from 1 to 6, within angle brackets. An interval vector of <strong><101102></strong> means that the set has one ic1 (semitone/major seventh), no ic2s, one ic3 (minor third/major sixth), one ic4 (major third/minor sixth), no ic5s (perfect fourths), and two ic6s (tritones).</p>
+
+<p><strong>ordered pitch interval</strong> – The number of semitones from one pitch (not pitch class) to the next. Ascending intervals are denoted by positive numbers, descending intervals by negative numbers. Examples: B4–G5 would have an ordered pitch interval of 8 (eight ascending semitones). B3–G5 would be 20. B4–G4 would be –4.</p>
+
+<p><strong>ordered pitch-class interval</strong> – The number of <em>ascending</em> semitones from one pitch-class to another. G–B is four semitones, for an ordered PC interval of <strong>4</strong>. B–G is eight ascending semitones, for an ordered PC interval of <strong>8</strong>.</p>
+
+<p>The ordered pitch-class interval is also the modulo12 version of the ordered pitch interval. For example, B4–G4 is –4 semitones (4 semitones down). mod12(–4) = 8. C3–D4 is 14 semitones. mod12(14) = 2.</p>
 
 <p><strong>pitch</strong> – A pitch class in a specific register, such as C4 (middle C).</p>
 
@@ -57,6 +58,8 @@
 <p><strong>prime form</strong> – Since set classes come in as many as 24 different forms (12 transpositions times 2 inversions), one of those forms is chosen as its name or referential form, for ease of categorization. That form is the prime form. The prime form is, in a nutshell, the inversion and rotation of the set class that keeps the pitch classes most tightly packed on and above C (0). <strong>video to be added on finding the prime form</strong></p>
 
 <p><strong>simultaneity</strong> – Any collection of more than one pitch (class) that sound at the same time. This includes dyads/intervals, chords, clusters, and "salami slices" of contrapuntal textures.</p>
+
+<p><strong>unordered pitch-class interval</strong> – A regular <em>simple</em> chromatic interval: the number of half steps between two pitches. Compound intervals (larger than an octave) are typically reduced to their corresponding simple interval. They are labeled with a lower-case <strong>i</strong>: <strong>i4</strong> is a major third, for example.</p>
 
 </div>
 

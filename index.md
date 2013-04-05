@@ -50,7 +50,7 @@ Voice-leading in contemporary Christian worship music.
 [Modal mixture.][mixture]  
 [Modulation.][Modulation]  
 
-Harmony in pop/rock music.  
+[Harmony in pop/rock music.][popRockHarmony]    
 
 ### Handouts and charts ###
 
@@ -135,6 +135,7 @@ Writing a music-analytical essay.
 [functions]: functions.html
 [harmFunc]: harmonicFunctions.html
 [harmSyntax]: harmonicSyntax.html
+[popRockHarmony]: popRockHarmony.html
 
 [unfiguredBass]: unfiguredBass.html
 [RNfromFB]: RNfromFB.html
