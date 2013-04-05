@@ -73,7 +73,7 @@ Because it is typically employed in cycles, it can also be found starting on a d
 &#124;&#124;: VI – IV – I – V :&#124;&#124; (in major)  
 &#124;&#124;: I – VI – III – VII :&#124;&#124; (in minor) 
 
-Like the 50s doo-wop, this is a four-chord cyclical progression. It has been around for some time but became increasingly common beginning in the mid-1990s with female singer/songwriters like Sarah McLachlan, Jewel, and Joan Osborne (hence the name). Though the chord progression can be found in many aggressive songs written for adolescent teen males, its prominence in songs by mid-1990s female singer/songwriters led a writer for the Boston Globe to coin the name “sensitive female chord progression,” and for good or ill the name has stuck.
+Like the 50s doo-wop, this is a four-chord cyclical progression. It has been around for some time but became increasingly common beginning in the mid-1990s with female singer/songwriters like Sarah McLachlan, Jewel, and Joan Osborne (hence the name). Though the chord progression can be found in many aggressive songs written for adolescent teen males, its prominence in songs by mid-1990s female singer/songwriters led Marc Hirsh, a writer for the Boston Globe, to coin the name [“sensitive female chord progression,”][sfcp] and for good or ill the name has stuck.
 
 <iframe width="480" height="360" src="http://www.youtube.com/embed/_QUq72fla3o?rel=0" frameborder="0" allowfullscreen></iframe>
 
@@ -174,3 +174,5 @@ For a complete circle-of-fifths progression, see Gloria Gaynor’s “I Will Sur
 &#124;&#124;: I – IV – VII – III – VI – II – V / :&#124;&#124;
 
 <iframe width="480" height="360" src="http://www.youtube.com/embed/Tth-8wA3PdY?rel=0" frameborder="0" allowfullscreen></iframe>
+
+[sfcp]: http://web.archive.org/web/20100113080032/http://www.boston.com/ae/music/articles/2008/12/31/striking_a_chord/
