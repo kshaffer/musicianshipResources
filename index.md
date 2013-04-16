@@ -32,7 +32,7 @@ This site contains online resources for the Musicianship courses at Charleston S
 [Realizing a figured bass line in melodic keyboard style (video).][melKB]  
 [Realizing an unfigured bass line (video).][unfiguredBass]  
 
-Voice-leading in contemporary Christian worship music.  
+[Voice-leading in contemporary Christian worship music.][popRockVL]  
 
 # Harmony #
 
@@ -130,6 +130,7 @@ Writing a music-analytical essay.
 [strictKeyboardStyle]: strictKeyboardStyle.html
 [KBVLschemata]: KBVLschemata.html
 [melKB]: melodicKB.html
+[popRockVL]: popRockVL.html
 
 [thoroughbass]: thoroughbassFigures.html
 [functions]: functions.html
