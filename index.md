@@ -94,6 +94,7 @@ Writing a music-analytical essay.
 [Using Variations Audio Timeliner.][VAT]  
 [Adding a creative commons license to a blog post.][addCC]  
 [Posting a blog link to Twitter.][linkToTwitter]  
+[Creating a musical graphic and importing it into a text document.][createGraphic]
 
 # Performance #
 
@@ -164,6 +165,7 @@ Writing a music-analytical essay.
 [kbTypesetting]: typesettingKBStyle.html
 [melDict]: melodicDictationDemo.html
 [VAT]: VAT.html
+[createGraphic]: createGraphic.html
 
 [atonal]: atonal.html
 [twelveTone]: twelveTone.html
