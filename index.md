@@ -4,7 +4,7 @@ title: Musicianship resources
 ---
 
 
-This site contains online resources for the Musicianship courses at Charleston Southern University, including Musicianship II and Musicianship IV, spring 2013. This site is still being built, so materials will be added to the site regularly, and pages will be updated as necessary.	
+This site contains online resources for the Musicianship courses at Charleston Southern University, including [Musicianship II][musi199] and [Musicianship IV][musi299], spring 2013. This site is still being built, so materials will be added to the site regularly, and pages will be updated as necessary.	
 
 # Introduction #
 
