@@ -8,11 +8,11 @@ title: Analyzing atonal music
 
 Following are a few tips, terms, and common structures that will be helpful for analyzing early twentieth-century atonal music, such as that composed by members of the Second Viennese School (Schönberg, Berg, Webern).
 
-## Intervals ##
+# Intervals #
 
 Always use *chromatic intervals* rather than diatonic intervals when analyzing and comparing pitch materials. (See [Intervals and dyads][intervals] resource.)
 
-## The 12-pitch-class cycle — clock face ##
+# The 12-pitch-class cycle — clock face #
 
 Atonal composers often begin with highly organized set of pitch classes, and then deploy the pitch classes in a wide variety of registers. Thus, it is helpful to eliminate register as a factor in order to find which motives, chords, and fragments belong in the same category. To do so, take a clock face with the twelve pitch-classes (spelling does not matter)
 
@@ -24,7 +24,7 @@ and mark all the pitch classes involved in the fragment. For example, here is a 
 
 This will make it easy to find the interval patterns in a set of pitch classes, no matter how they are distributed in the various registers and instruments on the score.
 
-## Common pitch-class collections ##
+# Common pitch-class collections #
 
 **Diatonic** – The usual major and *natural*-minor collections (white key collection and all of its transpositions).
 
@@ -75,9 +75,9 @@ This will make it easy to find the interval patterns in a set of pitch classes, 
 
 
 
-## Common *operations* ##
+# Common *operations* #
 
-#### Transposition ####
+### Transposition ###
 
 Pitch transposition involves moving every pitch in a collection up or down by a specified interval. 
 
@@ -85,7 +85,7 @@ Pitch-class transposition does the same thing. However, because of the cyclical 
 
 Transposition operations can be denoted by a capital "T" followed by a subscript indicating the number of semitones of the transposition. For pitch-class transpositions, use ordered pitch-class intervals (numbers 0–11). Transposing a collection or fragment up a whole step is labeled **T<sub>2</sub>**; up a tritone is **T<sub>6</sub>**, down a semitone is **T<sub>11</sub>** (mod12(–1) = 11).
 
-#### Inversion ####
+### Inversion ###
 
 *Melodic inversion* occurs when all ascending melodic intervals in a melody are replaced with descending intervals of the same size, and all descending replaced with ascending of the same size. The following melodies are inversion of each other.
 
